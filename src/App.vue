@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <LeftBar msg="Welcome to Your Vue.js App" />
+    <LeftBar />
   </div>
 </template>
 
